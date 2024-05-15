@@ -94,6 +94,15 @@ A honeypot is a system designed to attract and detect unauthorized activity. It 
 2. Practice creating queries and analyzing data in Kibana.
 3. Leave the honeypot running to collect data over time and review the collected data for insights.
 
+### Skills and Technologies
+
+- **Honeypot Deployment and Configuration**: Gained practical experience in deploying and configuring T-Pot honeypots on cloud platforms. Set up multiple honeypots, including creating and managing firewall rules to control access and enhance security.
+
+- **Data Collection and Visualization**: Developed skills in collecting and visualizing attack data using T-Pot's integrated tools like Kibana and the attack map. Analyzed real-time and historical attack data to understand threat patterns and attacker behavior.
+
+- **Network Security and Monitoring**: Enhanced proficiency in monitoring network security by using T-Pot's multi-honeypot platform. Configured dashboards, practiced querying data, and interpreted security events to improve incident detection and response capabilities.
+
+  
 ## References
 
 - [T-Pot GitHub Repository](https://github.com/dtag-dev-sec/tpotce)
